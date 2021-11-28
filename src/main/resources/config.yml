@@ -1,0 +1,5 @@
+## Blocks to use: bottom (1), rock (~60), middle (3), surface (1)
+bottom: BEDROCK
+rock: STONE
+middle: DIRT
+surface: GRASS_BLOCK

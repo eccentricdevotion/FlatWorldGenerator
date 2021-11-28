@@ -1,0 +1,8 @@
+author: eccentric_nz
+description: Generates a flat world like the FLAT preset in Minecraft single player
+main: me.eccentric_nz.flatworldgenerator.FlatWorldGenerator
+name: FlatWorldGenerator
+load: STARTUP
+version: 1.0.0
+api-version: 1.18
+website: http://tardisjenkins.duckdns.org:8080/
